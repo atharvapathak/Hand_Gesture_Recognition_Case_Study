@@ -54,5 +54,5 @@ This case study aims at the automatic interpretation of gestures in order to off
 
 
 ## Contact
-Created by [https://github.com/Veneeshkrishnan] - feel free to contact me!
-1. Veneesh -  veneeshkrish96@gmail.com
+Created by [https://github.com/atharvapathak] - feel free to contact me!
+1. Atharva -  atharvapathakb2w@gmail.com
